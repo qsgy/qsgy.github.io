@@ -5,7 +5,7 @@ header-img: img/post-bg-desk.jpg
 email: qiubaiying@gmail.com
 description: "Every failure is leading towards success."
 keyword: "BY, BY Blog, oyh的博客, oyh, oyh, iOS, Apple, iPhone"
-url: "http://oyh.github.io"          # your host, for absolute URL
+url: "https://qsgy.github.io/oyh.github.io/"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/qsgy/oyh.github.io.git" # you code repository
 
