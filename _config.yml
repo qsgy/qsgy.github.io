@@ -103,3 +103,5 @@ friends: [
         href: "http://catliuxin.github.io"
     }
 ]
+
+theme: jekyll-theme-dinky
